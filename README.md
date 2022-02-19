@@ -1,6 +1,6 @@
 # Hi 👋, I'm Christopher Graham
 
-<img align="right" alt="Christopher Graham" height="160px" src="https://media-exp1.licdn.com/dms/image/C4D03AQE0SsZKwY8P9A/profile-displayphoto-shrink_800_800/0/1611301408783?e=1650499200&v=beta&t=IsRw51mIGdn1KzksaTu5mDBB2Oo62Ni1rQORLnU-63c" />
+<img align="right" alt="Christopher Graham" height="160px" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gb9iikhlpti9g74hxk70dd5kfv6ptftufinaatmm&rid=giphy.gif&ct=g" />
 
 ## I'm a Senior Software Engineer
 
