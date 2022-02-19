@@ -16,6 +16,15 @@
         <tr>
             <td valign="top" align="left" width="33%">
                 <h4>Languages</h4>
+                <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg"
+                        alt="dart"
+                        title="dart"
+                        width="40"
+                        height="40"
+                    />
+                </a>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -109,6 +118,15 @@
                         height="40"
                     />
                 </a>
+                <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original-wordmark.svg"
+                        alt="jquery"
+                        title="jquery"
+                        width="40"
+                        height="40"
+                    />
+                </a>
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -166,6 +184,15 @@
             </td>
             <td valign="top" align="left" width="33%">
                 <h4>Backend</h4>
+                <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-original-wordmark.svg"
+                        alt="apache"
+                        title="apache"
+                        width="40"
+                        height="40"
+                    />
+                </a>
                 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -281,6 +308,24 @@
                         height="40"
                     />
                 </a>
+                <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/digitalocean/digitalocean-original.svg"
+                        alt="digitalocean"
+                        title="digitalocean"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg"
+                        alt="docker"
+                        title="docker"
+                        width="40"
+                        height="40"
+                    />
+                </a>
                 <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
                     <img
                         src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
@@ -305,6 +350,15 @@
                         src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
                         alt="codeigniter"
                         title="codeigniter"
+                        width="40"
+                        height="40"
+                    />
+                </a>
+                <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+                    <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg"
+                        alt="flutter"
+                        title="flutter"
                         width="40"
                         height="40"
                     />
