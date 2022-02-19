@@ -1,4 +1,4 @@
-# Hi 👋, I'm Christopher Graham
+# Hi 👋, I'm Chris
 
 <img align="right" alt="Christopher Graham" height="160px" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gb9iikhlpti9g74hxk70dd5kfv6ptftufinaatmm&rid=giphy.gif&ct=g" />
 
