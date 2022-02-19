@@ -1,18 +1,21 @@
-### Hi 👋, I'm Christopher Graham
+# Hi 👋, I'm Christopher Graham
 
-#### An experienced senior Full-Stack Engineer with management experience.
+<img align="right" alt="Christopher Graham" height="160px" src="https://media-exp1.licdn.com/dms/image/C4D03AQE0SsZKwY8P9A/profile-displayphoto-shrink_800_800/0/1611301408783?e=1650499200&v=beta&t=IsRw51mIGdn1KzksaTu5mDBB2Oo62Ni1rQORLnU-63c" />
+
+## I'm a Senior Software Engineer
+
+-   👨‍💻 I’m currently working on web development technologies like Laravel, JavaScript, Vue etc...
+-   📚 I’m currently learning everything about Frontend and Backend technologies.
+-   💪🏼 Future Goals: Learn more technologies - Never stop innovating.
+-   ⚡ Fun fact: I love music and creating things.
 
 ---
 
 <table>
-    <thead>
-        <tr>
-            <th align="left">Languages</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Languages</h4>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -50,19 +53,8 @@
                     />
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="left">Frontend</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Frontend</h4>
                 <a href="https://angular.io" target="_blank" rel="noreferrer">
                     <img
                         src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -172,19 +164,8 @@
                     />
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="left">Backend</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Backend</h4>
                 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -209,14 +190,10 @@
 </table>
 
 <table>
-    <thead>
-        <tr>
-            <th align="left">Database</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Database</h4>
                 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
                     <img
                         src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
@@ -272,19 +249,8 @@
                     />
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="left">Data Visualization</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Data Visualization</h4>
                 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
                     <img
                         src="https://www.chartjs.org/media/logo-title.svg"
@@ -295,19 +261,8 @@
                     />
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="left">Devops</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Devops</h4>
                 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -341,14 +296,10 @@
 </table>
 
 <table>
-    <thead>
-        <tr>
-            <th align="left">Framework</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Framework</h4>
                 <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
                     <img
                         src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
@@ -368,19 +319,8 @@
                     />
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="left">Software</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Software</h4>
                 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/confluence/confluence-original.svg"
@@ -454,19 +394,8 @@
                     />
                 </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th align="left">Static Site Generators</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
+            <td valign="top" align="left" width="33%">
+                <h4>Static Site Generators</h4>
                 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
                     <img
                         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg"
