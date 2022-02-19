@@ -2,10 +2,9 @@
 
 <img align="right" alt="Christopher Graham" height="160px" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gb9iikhlpti9g74hxk70dd5kfv6ptftufinaatmm&rid=giphy.gif&ct=g" />
 
-## I'm a Senior Software Engineer
+### I'm a Senior Software Engineer with over 15 years of experience
 
--   👨‍💻 I’m currently working on web development technologies like Laravel, JavaScript, Vue etc...
--   📚 I’m currently learning everything about Frontend and Backend technologies.
+-   👨‍💻 I’m currently working in the Healthcare industry on web development technologies like Laravel, JavaScript, Vue etc...
 -   💪🏼 Future Goals: Learn more technologies - Never stop innovating.
 -   ⚡ Fun fact: I love music and creating things.
 
